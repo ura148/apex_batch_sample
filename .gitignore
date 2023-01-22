@@ -42,3 +42,5 @@ $RECYCLE.BIN/
 # Org setting
 config/
 package.xml
+
+package-lock.json
